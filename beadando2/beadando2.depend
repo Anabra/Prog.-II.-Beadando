@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1462054671 source:c:\elte\ii. félév\programozás\ii. beadandó\beadando2\enor.cpp
+	"enor.h"
+
+1462544660 c:\elte\ii. félév\programozás\ii. beadandó\beadando2\enor.h
+	<sstream>
+	<iostream>
+	"enor.hpp"
+
+1462544406 source:c:\elte\ii. félév\programozás\ii. beadandó\beadando2\main.cpp
+	<iostream>
+	<fstream>
+	"enor.h"
+	"paragraph.h"
+	"menu.h"
+
+1462566586 source:c:\elte\ii. félév\programozás\ii. beadandó\beadando2\paragraph.cpp
+	<iostream>
+	<sstream>
+	"paragraph.h"
+
+1462545410 c:\elte\ii. félév\programozás\ii. beadandó\beadando2\paragraph.h
+
+1462545386 c:\elte\ii. félév\programozás\ii. beadandó\beadando2\enor.hpp
+
+1462230193 source:c:\elte\ii. félév\programozás\ii. beadandó\beadando2\logic.cpp
+	<iostream>
+	<fstream>
+	"enor.h"
+	"paragraph.h"
+
+1462544813 source:c:\elte\ii. félév\programozás\ii. beadandó\beadando2\menu.cpp
+	<iostream>
+	<stdlib.h>
+	"menu.h"
+
+1462544779 c:\elte\ii. félév\programozás\ii. beadandó\beadando2\menu.h
+
